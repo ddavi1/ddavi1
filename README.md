@@ -21,4 +21,4 @@
     
 </div>
 
-## Atualmente sou de nivel iniciante em Front-End e também estou cursando Ciencias da Computação!
+## Atualmente sou de nivel iniciante(Júniorzinho) em Front-End e também estou cursando Ciencias da Computação!
