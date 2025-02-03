@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Davi</h1>
-<h3 align="center">A curiosidade matou o gato, mas não me matou!</h3>
+<h3 align="center"></h3>
 
 <h3 align="left">Dando uma de professor em:</h3>
 <p align="left">
